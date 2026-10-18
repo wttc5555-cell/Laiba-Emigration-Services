@@ -1,0 +1,6 @@
+{
+  "name": "Laiba Emigration Services",
+  "description": "Official portal for Laiba Emigration Services Pvt Ltd - Overseas Recruitment, Visa Consultancy, Global Job Placements & Emigration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
